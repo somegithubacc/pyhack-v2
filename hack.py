@@ -1,4 +1,4 @@
-import pymem, time, c_process, offsets, c_features, radar, config
+import pymem, time, c_process, offsets, c_features, config
 
 def main( ):
     process = c_process.c_process( )
